@@ -1,0 +1,12 @@
+[submodule "ArchimedesAlgorithmForPI"]
+	path = ArchimedesAlgorithmForPI
+	url = https://gitlab.com/edwintrejo/ArchimedesAlgorithmForPI.git
+[submodule "EuclideanAlgorithmCalculator"]
+	path = EuclideanAlgorithmCalculator
+	url = https://gitlab.com/edwintrejo/EuclideanAlgorithmCalculator.git
+[submodule "nineGuesser"]
+	path = nineGuesser
+	url = https://gitlab.com/edwintrejo/nineGuesser.git
+[submodule "PhiCalc"]
+	path = PhiCalc
+	url = https://gitlab.com/edwintrejo/PhiCalc.git
