@@ -1,0 +1,9 @@
+
+git submodule add https://gitlab.com/edwintrejo/PhiCalc.git PhiCalc
+
+git submodule add https://gitlab.com/edwintrejo/nineGuesser.git nineGuesser
+
+git submodule add https://gitlab.com/edwintrejo/EuclideanAlgorithmCalculator.git EuclideanAlgorithmCalculator
+
+git submodule add https://gitlab.com/edwintrejo/ArchimedesAlgorithmForPI.git ArchimedesAlgorithmForPI        
+
