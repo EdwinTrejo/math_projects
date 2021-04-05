@@ -10,3 +10,6 @@
 [submodule "ArchimedesAlgorithmForPI"]
 	path = ArchimedesAlgorithmForPI
 	url = https://gitlab.com/edwintrejo/ArchimedesAlgorithmForPI.git
+[submodule "GuessTheNumberGame"]
+	path = GuessTheNumberGame
+	url = https://gitlab.com/edwintrejo/GuessTheNumberGame.git
